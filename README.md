@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Continuously growing my skills in **MERN Stack Development**.  
 - 💻 &nbsp; Specialized in building dynamic **web applications** with React.js and Next.js.  
 - 🤝 &nbsp; Always open to collaborating on exciting and meaningful projects. 🚀  
-- 📂 &nbsp; Check out some of my recent work in my [portfolio](#).  
+- 📂 &nbsp; Check out some of my recent work in my [portfolio](https://sanaullah-sana.vercel.app/).  
 - ☕ &nbsp; Fueled by coffee, creativity, and the drive to craft impactful solutions.  
 
 <br>
